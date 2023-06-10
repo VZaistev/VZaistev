@@ -6,3 +6,5 @@
 
 
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VZaistev&hide_border=true&hide=html,css,javascript&layout=compact&theme=midnight-purple"/>
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,bash,python&perline=3)](https://skillicons.dev)
